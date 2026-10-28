@@ -1,3 +1,5 @@
+![Alt text for the image](ScriptImage.png)
+
 # Tournament Table Generator
 
 A small Python script that reads a list of players from a text file, randomly pairs them into matches, saves the pairings as JSON, and prints them in a readable format after a passkey check.
